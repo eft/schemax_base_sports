@@ -6,4 +6,7 @@ version = 7.x-1.0-alpha1
 project = schemax_base_sports
 dependencies[] = features
 features[features_api][] = api:2
+features[user_role][] = executive
+features[user_role][] = registrar
 features[user_role][] = team manager
+features[user_role][] = age group coordinator
