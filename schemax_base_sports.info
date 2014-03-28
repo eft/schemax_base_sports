@@ -2,6 +2,7 @@ name = Schemax Base (Sports)
 description = Features common to all Schemax apps related to sports
 core = 7.x
 package = Schemax
+version = 7.x-1.x
 project = schemax_base_sports
 dependencies[] = ctools
 dependencies[] = features
